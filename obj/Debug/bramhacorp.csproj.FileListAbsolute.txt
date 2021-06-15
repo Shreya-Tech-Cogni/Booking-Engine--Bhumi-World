@@ -1,0 +1,347 @@
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\bramhacorp.dll.config
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\bramhacorp.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\bramhacorp.pdb
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csc.exe
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csc.exe.config
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csc.rsp
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csi.exe
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csi.exe.config
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\csi.rsp
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.AppContext.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Collections.Immutable.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Console.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Globalization.Calendars.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.IO.Compression.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.IO.FileSystem.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Net.Http.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Net.Sockets.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.ValueTuple.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Xml.XPath.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\vbc.exe
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\vbc.exe.config
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\vbc.rsp
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\VBCSCompiler.exe
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\roslyn\VBCSCompiler.exe.config
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\bin\AjaxMin.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\obj\Debug\bramhacorp.csprojAssemblyReference.cache
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\obj\Debug\bramhacorp.csproj.CoreCompileInputs.cache
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\obj\Debug\bramhacorp.csproj.CopyComplete
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\obj\Debug\bramhacorp.dll
+E:\Web and Software\Cognilements\July 28 2020\collection\New folder\obj\Debug\bramhacorp.pdb
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\bramhacorp.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\bramhacorp.pdb
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csc.exe
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csc.exe.config
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csc.rsp
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csi.exe
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csi.exe.config
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\csi.rsp
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.AppContext.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Collections.Immutable.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Console.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Globalization.Calendars.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.IO.Compression.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.IO.FileSystem.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Net.Http.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Net.Sockets.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.ValueTuple.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Xml.XPath.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\vbc.exe
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\vbc.exe.config
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\vbc.rsp
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\VBCSCompiler.exe
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\roslyn\VBCSCompiler.exe.config
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\bin\AjaxMin.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\obj\Debug\bramhacorp.dll
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\obj\Debug\bramhacorp.pdb
+E:\Fenil Latest Soft\Bramha Final\collection (2)\collection\New folder\obj\Debug\bramhacorp.csprojResolveAssemblyReference.cache
+D:\Projects\copyofthecollection\New folder\bin\bramhacorp.dll.config
+D:\Projects\copyofthecollection\New folder\bin\bramhacorp.dll
+D:\Projects\copyofthecollection\New folder\bin\bramhacorp.pdb
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csc.exe
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csc.exe.config
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csc.rsp
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csi.exe
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csi.exe.config
+D:\Projects\copyofthecollection\New folder\bin\roslyn\csi.rsp
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\copyofthecollection\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.AppContext.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Console.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.IO.Compression.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Net.Http.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.ValueTuple.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\copyofthecollection\New folder\bin\roslyn\vbc.exe
+D:\Projects\copyofthecollection\New folder\bin\roslyn\vbc.exe.config
+D:\Projects\copyofthecollection\New folder\bin\roslyn\vbc.rsp
+D:\Projects\copyofthecollection\New folder\bin\roslyn\VBCSCompiler.exe
+D:\Projects\copyofthecollection\New folder\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\copyofthecollection\New folder\bin\AjaxMin.dll
+D:\Projects\copyofthecollection\New folder\obj\Debug\bramhacorp.csprojAssemblyReference.cache
+D:\Projects\copyofthecollection\New folder\obj\Debug\bramhacorp.csproj.CoreCompileInputs.cache
+D:\Projects\copyofthecollection\New folder\obj\Debug\bramhacorp.csproj.CopyComplete
+D:\Projects\copyofthecollection\New folder\obj\Debug\bramhacorp.dll
+D:\Projects\copyofthecollection\New folder\obj\Debug\bramhacorp.pdb
+D:\Projects\Avnir\63East\New folder\bin\bramhacorp.dll.config
+D:\Projects\Avnir\63East\New folder\bin\bramhacorp.dll
+D:\Projects\Avnir\63East\New folder\bin\bramhacorp.pdb
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csc.exe
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csc.exe.config
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csc.rsp
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csi.exe
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csi.exe.config
+D:\Projects\Avnir\63East\New folder\bin\roslyn\csi.rsp
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Avnir\63East\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.AppContext.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Console.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Net.Http.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Avnir\63East\New folder\bin\roslyn\vbc.exe
+D:\Projects\Avnir\63East\New folder\bin\roslyn\vbc.exe.config
+D:\Projects\Avnir\63East\New folder\bin\roslyn\vbc.rsp
+D:\Projects\Avnir\63East\New folder\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Avnir\63East\New folder\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Avnir\63East\New folder\bin\AjaxMin.dll
+D:\Projects\Avnir\63East\New folder\obj\Debug\bramhacorp.csprojAssemblyReference.cache
+D:\Projects\Avnir\63East\New folder\obj\Debug\bramhacorp.csproj.CoreCompileInputs.cache
+D:\Projects\Avnir\63East\New folder\obj\Debug\bramhacorp.csproj.CopyComplete
+D:\Projects\Avnir\63East\New folder\obj\Debug\bramhacorp.dll
+D:\Projects\Avnir\63East\New folder\obj\Debug\bramhacorp.pdb
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Debug\bramhacorp.csproj.CoreCompileInputs.cache
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.dll.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.pdb
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.AppContext.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Collections.Immutable.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Console.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Globalization.Calendars.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.Compression.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.FileSystem.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Net.Http.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Net.Sockets.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Reflection.Metadata.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.ValueTuple.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XPath.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\VBCSCompiler.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\VBCSCompiler.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\AjaxMin.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\itextsharp.xmlworker.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Debug\bramhacorp.csprojAssemblyReference.cache
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Debug\bramhacorp.csproj.CopyComplete
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Debug\bramhacorp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Debug\bramhacorp.pdb
+E:\cognilements india\Bhumi world\booking\New folder\bin\bramhacorp.dll.config
+E:\cognilements india\Bhumi world\booking\New folder\bin\bramhacorp.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\bramhacorp.pdb
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csc.exe
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csc.exe.config
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csc.rsp
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csi.exe
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csi.exe.config
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\csi.rsp
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.AppContext.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Collections.Immutable.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Console.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Globalization.Calendars.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.IO.Compression.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.IO.FileSystem.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Net.Http.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Net.Sockets.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Reflection.Metadata.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.ValueTuple.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Xml.XPath.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\vbc.exe
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\vbc.exe.config
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\vbc.rsp
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\VBCSCompiler.exe
+E:\cognilements india\Bhumi world\booking\New folder\bin\roslyn\VBCSCompiler.exe.config
+E:\cognilements india\Bhumi world\booking\New folder\bin\AjaxMin.dll
+E:\cognilements india\Bhumi world\booking\New folder\bin\itextsharp.xmlworker.dll
+E:\cognilements india\Bhumi world\booking\New folder\obj\Debug\bramhacorp.csprojAssemblyReference.cache
+E:\cognilements india\Bhumi world\booking\New folder\obj\Debug\bramhacorp.csproj.CoreCompileInputs.cache
+E:\cognilements india\Bhumi world\booking\New folder\obj\Debug\bramhacorp.csproj.CopyComplete
+E:\cognilements india\Bhumi world\booking\New folder\obj\Debug\bramhacorp.dll
+E:\cognilements india\Bhumi world\booking\New folder\obj\Debug\bramhacorp.pdb

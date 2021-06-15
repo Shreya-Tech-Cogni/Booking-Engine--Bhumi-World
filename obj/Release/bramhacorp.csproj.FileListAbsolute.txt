@@ -1,0 +1,234 @@
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\bramhacorp.dll.config
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\bramhacorp.pdb
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csc.exe
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csc.exe.config
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csc.rsp
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csi.exe
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csi.exe.config
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\csi.rsp
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.AppContext.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Collections.Immutable.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Console.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Globalization.Calendars.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.IO.Compression.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.IO.FileSystem.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Net.Http.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Net.Sockets.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Reflection.Metadata.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.ValueTuple.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Xml.XPath.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\vbc.exe
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\vbc.exe.config
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\vbc.rsp
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\VBCSCompiler.exe
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\roslyn\VBCSCompiler.exe.config
+D:\cognilements India\AVNIR VR\VR\63East\New folder\bin\AjaxMin.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\obj\Release\bramhacorp.csprojAssemblyReference.cache
+D:\cognilements India\AVNIR VR\VR\63East\New folder\obj\Release\bramhacorp.csproj.CoreCompileInputs.cache
+D:\cognilements India\AVNIR VR\VR\63East\New folder\obj\Release\bramhacorp.csproj.CopyComplete
+D:\cognilements India\AVNIR VR\VR\63East\New folder\obj\Release\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\63East\New folder\obj\Release\bramhacorp.pdb
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\bramhacorp.dll.config
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\bramhacorp.pdb
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csc.exe
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csc.exe.config
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csc.rsp
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csi.exe
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csi.exe.config
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\csi.rsp
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.AppContext.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Collections.Immutable.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Console.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Globalization.Calendars.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.IO.Compression.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.IO.FileSystem.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Net.Http.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Net.Sockets.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Reflection.Metadata.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.ValueTuple.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Xml.XPath.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\vbc.exe
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\vbc.exe.config
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\vbc.rsp
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\VBCSCompiler.exe
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\roslyn\VBCSCompiler.exe.config
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\bin\AjaxMin.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\obj\Release\bramhacorp.csprojAssemblyReference.cache
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\obj\Release\bramhacorp.csproj.CoreCompileInputs.cache
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\obj\Release\bramhacorp.csproj.CopyComplete
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\obj\Release\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\DSMax\New folder\obj\Release\bramhacorp.pdb
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\bramhacorp.dll.config
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\bramhacorp.pdb
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csc.exe
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csc.exe.config
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csc.rsp
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csi.exe
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csi.exe.config
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\csi.rsp
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.AppContext.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Collections.Immutable.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Console.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Globalization.Calendars.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.IO.Compression.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.IO.FileSystem.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Net.Http.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Net.Sockets.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Reflection.Metadata.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.ValueTuple.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Xml.XPath.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\vbc.exe
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\vbc.exe.config
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\vbc.rsp
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\VBCSCompiler.exe
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\roslyn\VBCSCompiler.exe.config
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\bin\AjaxMin.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\obj\Release\bramhacorp.csprojAssemblyReference.cache
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\obj\Release\bramhacorp.csproj.CoreCompileInputs.cache
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\obj\Release\bramhacorp.csproj.CopyComplete
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\obj\Release\bramhacorp.dll
+D:\cognilements India\AVNIR VR\VR\sonaVistaas\New folder\obj\Release\bramhacorp.pdb
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.dll.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\bramhacorp.pdb
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csc.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\csi.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Managed.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.AppContext.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Collections.Immutable.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Console.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Globalization.Calendars.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.Compression.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.FileSystem.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Net.Http.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Net.Sockets.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Reflection.Metadata.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.ValueTuple.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XmlDocument.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XPath.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\vbc.rsp
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\VBCSCompiler.exe
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\roslyn\VBCSCompiler.exe.config
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\AjaxMin.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\itextsharp.xmlworker.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\bin\itextsharp.xml
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Release\bramhacorp.csproj.CoreCompileInputs.cache
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Release\bramhacorp.csproj.CopyComplete
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Release\bramhacorp.dll
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Release\bramhacorp.pdb
+E:\cognilements india\Embassy\bookingembassy\New folder\obj\Release\bramhacorp.csprojAssemblyReference.cache

@@ -1,0 +1,132 @@
+@font-face {
+   font-family: "Century Gothic";
+   src: url("fonts/Century Gothic.woff") format("woff"), url("fonts/Century Gothic.eot") format("embedded-opentype"), url("fonts/Century Gothic.TTF") format("truetype"), url("fonts/Century Gothic.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Century Gothic";
+   src: url("fonts/Century Gothic Bold.woff") format("woff"), url("fonts/Century Gothic Bold.eot") format("embedded-opentype"), url("fonts/Century Gothic Bold.TTF") format("truetype"), url("fonts/Century Gothic Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Century Gothic";
+   src: url("fonts/Century Gothic Bold Italic.woff") format("woff"), url("fonts/Century Gothic Bold Italic.eot") format("embedded-opentype"), url("fonts/Century Gothic Bold Italic.TTF") format("truetype"), url("fonts/Century Gothic Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Century Gothic";
+   src: url("fonts/Century Gothic Italic.woff") format("woff"), url("fonts/Century Gothic Italic.eot") format("embedded-opentype"), url("fonts/Century Gothic Italic.TTF") format("truetype"), url("fonts/Century Gothic Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Yu Gothic UI";
+   src: url("fonts/Yu Gothic UI Regular.woff") format("woff"), url("fonts/Yu Gothic UI Regular.eot") format("embedded-opentype"), url("fonts/Yu Gothic UI Regular.ttf") format("truetype"), url("fonts/Yu Gothic UI Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold Italic.woff") format("woff"), url("fonts/Montserrat Bold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Bold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Italic.woff") format("woff"), url("fonts/Montserrat Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Regular.woff") format("woff"), url("fonts/Montserrat Regular.eot") format("embedded-opentype"), url("fonts/Montserrat Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.woff") format("woff"), url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat SemiBold.woff") format("woff"), url("fonts/Montserrat SemiBold.eot") format("embedded-opentype"), url("fonts/Montserrat SemiBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Medium.woff") format("woff"), url("fonts/Montserrat Medium.eot") format("embedded-opentype"), url("fonts/Montserrat Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/Bebas Neue Bold.woff") format("woff"), url("fonts/Bebas Neue Bold.eot") format("embedded-opentype"), url("fonts/Bebas Neue Bold.ttf") format("truetype"), url("fonts/Bebas Neue Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Bold.woff") format("woff"), url("fonts/Poppins Bold.eot") format("embedded-opentype"), url("fonts/Poppins Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Bold Italic.woff") format("woff"), url("fonts/Poppins Bold Italic.eot") format("embedded-opentype"), url("fonts/Poppins Bold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Italic.woff") format("woff"), url("fonts/Poppins Italic.eot") format("embedded-opentype"), url("fonts/Poppins Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Regular.woff") format("woff"), url("fonts/Poppins Regular.eot") format("embedded-opentype"), url("fonts/Poppins Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}

@@ -1,0 +1,948 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActiveStatus" xml:space="preserve">
+    <value>सक्रिय स्थिती</value>
+  </data>
+  <data name="AddAdditionalParkingCost" xml:space="preserve">
+    <value>अतिरिक्त पार्किंग खर्च जोडा</value>
+  </data>
+  <data name="AdditionalParkingCost" xml:space="preserve">
+    <value>अतिरिक्त पार्किंग खर्च</value>
+  </data>
+  <data name="Addressline1" xml:space="preserve">
+    <value>पत्ता क्रमांक 1</value>
+  </data>
+  <data name="Addressline2" xml:space="preserve">
+    <value>पत्ता ओळ 2</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>क्षेत्रफळ</value>
+  </data>
+  <data name="AssignUser" xml:space="preserve">
+    <value>वापरकर्त्यास असाइन करा</value>
+  </data>
+  <data name="BlogCategory" xml:space="preserve">
+    <value>ब्लॉग श्रेणी</value>
+  </data>
+  <data name="BlogCategoryCode" xml:space="preserve">
+    <value>ब्लॉग श्रेणी कोड</value>
+  </data>
+  <data name="BlogCategoryList" xml:space="preserve">
+    <value>ब्लॉग श्रेणी यादी</value>
+  </data>
+  <data name="BlogCategoryName" xml:space="preserve">
+    <value>ब्लॉग श्रेणी नाव</value>
+  </data>
+  <data name="BlogCode" xml:space="preserve">
+    <value>ब्लॉग कोड</value>
+  </data>
+  <data name="BlogDetails" xml:space="preserve">
+    <value>ब्लॉग तपशील</value>
+  </data>
+  <data name="BlogEntry" xml:space="preserve">
+    <value>ब्लॉग एंट्री</value>
+  </data>
+  <data name="BlogsList" xml:space="preserve">
+    <value>ब्लॉग सूची</value>
+  </data>
+  <data name="Budget" xml:space="preserve">
+    <value>अर्थसंकल्प</value>
+  </data>
+  <data name="BudgetList" xml:space="preserve">
+    <value>बजेट यादी</value>
+  </data>
+  <data name="BudgetMaster" xml:space="preserve">
+    <value>बजेट मास्टर</value>
+  </data>
+  <data name="BudgetName" xml:space="preserve">
+    <value>बजेट नाव</value>
+  </data>
+  <data name="Builder" xml:space="preserve">
+    <value>बिल्डर</value>
+  </data>
+  <data name="BuilderPersonName" xml:space="preserve">
+    <value>बिल्डर / व्यक्तीचे नाव</value>
+  </data>
+  <data name="BuildupArea" xml:space="preserve">
+    <value>बिल्डअप क्षेत्र</value>
+  </data>
+  <data name="CarpetArea" xml:space="preserve">
+    <value>चटई क्षेत्र</value>
+  </data>
+  <data name="CategoryCode" xml:space="preserve">
+    <value>श्रेणी कोड</value>
+  </data>
+  <data name="CategoryName" xml:space="preserve">
+    <value>श्रेणी नाव</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>शहर</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>कोड</value>
+  </data>
+  <data name="ColorCode" xml:space="preserve">
+    <value>रंग कोड</value>
+  </data>
+  <data name="CompareStatus" xml:space="preserve">
+    <value>स्थितीची तुलना करा</value>
+  </data>
+  <data name="CompletedProjectDetails" xml:space="preserve">
+    <value>पूर्ण प्रकल्प तपशील</value>
+  </data>
+  <data name="Config" xml:space="preserve">
+    <value>कॉन्फिगर करा</value>
+  </data>
+  <data name="Confirmation" xml:space="preserve">
+    <value>पुष्टीकरण</value>
+  </data>
+  <data name="ContactNo1" xml:space="preserve">
+    <value>संपर्क क्रमांक १</value>
+  </data>
+  <data name="ContactNo2" xml:space="preserve">
+    <value>संपर्क क्रमांक 2</value>
+  </data>
+  <data name="ContactPersonName" xml:space="preserve">
+    <value>संपर्क व्यक्तीचे नाव</value>
+  </data>
+  <data name="CopyTowers" xml:space="preserve">
+    <value>टॉवर्स कॉपी करा</value>
+  </data>
+  <data name="CorporateAddressline1" xml:space="preserve">
+    <value>कॉर्पोरेट अ‍ॅड्रेसलाईन १</value>
+  </data>
+  <data name="CorporateAddressline2" xml:space="preserve">
+    <value>कॉर्पोरेट अ‍ॅड्रेसलाईन २</value>
+  </data>
+  <data name="CustomerName" xml:space="preserve">
+    <value>ग्राहकाचे नाव</value>
+  </data>
+  <data name="CustomersInterestLevel" xml:space="preserve">
+    <value>ग्राहकांचे व्याज पातळी</value>
+  </data>
+  <data name="CustomersList" xml:space="preserve">
+    <value>ग्राहकांची यादी</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>वर्णन</value>
+  </data>
+  <data name="Discussion" xml:space="preserve">
+    <value>चर्चा</value>
+  </data>
+  <data name="DLink" xml:space="preserve">
+    <value>3 डी दुवा</value>
+  </data>
+  <data name="EmailID" xml:space="preserve">
+    <value>ई - मेल आयडी</value>
+  </data>
+  <data name="EmailId1" xml:space="preserve">
+    <value>ईमेल आयडी 1</value>
+  </data>
+  <data name="EmailId2" xml:space="preserve">
+    <value>ईमेल आयडी 2</value>
+  </data>
+  <data name="EmployeeCode" xml:space="preserve">
+    <value>कर्मचारी कोड</value>
+  </data>
+  <data name="EmployeeDetails" xml:space="preserve">
+    <value>कर्मचार्‍यांचा तपशील</value>
+  </data>
+  <data name="EmployeeFirstName" xml:space="preserve">
+    <value>कर्मचारी नाव</value>
+  </data>
+  <data name="EmployeeLastName" xml:space="preserve">
+    <value>कर्मचारी आडनाव</value>
+  </data>
+  <data name="EmployeeUserList" xml:space="preserve">
+    <value>कर्मचारी वापरकर्त्याची यादी</value>
+  </data>
+  <data name="EmployeeUserMaster" xml:space="preserve">
+    <value>कर्मचारी वापरकर्ता मास्टर</value>
+  </data>
+  <data name="EnterLink" xml:space="preserve">
+    <value>दुवा प्रविष्ट करा</value>
+  </data>
+  <data name="EnterSocialMediaOrVideoLinks" xml:space="preserve">
+    <value>सोशल मीडिया किंवा व्हिडिओ दुवे प्रविष्ट करा</value>
+  </data>
+  <data name="EventDate" xml:space="preserve">
+    <value>कार्यक्रमाची तारीख</value>
+  </data>
+  <data name="Executives" xml:space="preserve">
+    <value>कार्यकारी</value>
+  </data>
+  <data name="ExecutivesList" xml:space="preserve">
+    <value>कार्यकारी यादी</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>निर्यात करा</value>
+  </data>
+  <data name="FilterData" xml:space="preserve">
+    <value>फिल्टर डेटा</value>
+  </data>
+  <data name="FilterList" xml:space="preserve">
+    <value>फिल्टर यादी</value>
+  </data>
+  <data name="FirstorLastName" xml:space="preserve">
+    <value>नाव किंवा आडनाव</value>
+  </data>
+  <data name="FromDate" xml:space="preserve">
+    <value>या तारखेपासून</value>
+  </data>
+  <data name="FromEventDate" xml:space="preserve">
+    <value>कार्यक्रमाच्या तारखेपासून</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>लिंग</value>
+  </data>
+  <data name="GSTApplicable" xml:space="preserve">
+    <value>जीएसटी लागू</value>
+  </data>
+  <data name="InterestLevelMaster" xml:space="preserve">
+    <value>व्याज पातळी मास्टर</value>
+  </data>
+  <data name="InterestLevelName" xml:space="preserve">
+    <value>व्याज स्तराचे नाव</value>
+  </data>
+  <data name="LaunchDate" xml:space="preserve">
+    <value>लाँच तारीख</value>
+  </data>
+  <data name="Locality" xml:space="preserve">
+    <value>परिसर</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>स्थान</value>
+  </data>
+  <data name="LoginAccess" xml:space="preserve">
+    <value>लॉगिन प्रवेश</value>
+  </data>
+  <data name="LogReport" xml:space="preserve">
+    <value>लॉग अहवाल</value>
+  </data>
+  <data name="ManageRights" xml:space="preserve">
+    <value>अधिकार व्यवस्थापित करा</value>
+  </data>
+  <data name="Mobileno" xml:space="preserve">
+    <value>मोबाईलनो</value>
+  </data>
+  <data name="NameOfProject" xml:space="preserve">
+    <value>प्रकल्पाचे नाव</value>
+  </data>
+  <data name="OtherDetails" xml:space="preserve">
+    <value>इतर तपशील</value>
+  </data>
+  <data name="PartyList" xml:space="preserve">
+    <value>पार्टी यादी</value>
+  </data>
+  <data name="PartyMaster" xml:space="preserve">
+    <value>पार्टी मास्टर</value>
+  </data>
+  <data name="PartyName" xml:space="preserve">
+    <value>पक्षाचे नाव</value>
+  </data>
+  <data name="PartyOtherDetails" xml:space="preserve">
+    <value>पार्टी इतर तपशील</value>
+  </data>
+  <data name="PartyProfile" xml:space="preserve">
+    <value>पार्टी प्रोफाइल</value>
+  </data>
+  <data name="PartyType" xml:space="preserve">
+    <value>पार्टी प्रकार</value>
+  </data>
+  <data name="PartyTypeList" xml:space="preserve">
+    <value>पार्टी प्रकार यादी</value>
+  </data>
+  <data name="PartyTypeMaster" xml:space="preserve">
+    <value>पार्टी प्रकार मास्टर</value>
+  </data>
+  <data name="PartyTypeName" xml:space="preserve">
+    <value>पार्टी प्रकार नाव</value>
+  </data>
+  <data name="Pincode" xml:space="preserve">
+    <value>पिन कोड</value>
+  </data>
+  <data name="PleaseAssignUser" xml:space="preserve">
+    <value>कृपया वापरकर्त्यास असाइन करा</value>
+  </data>
+  <data name="PleaseEnter3Dlink" xml:space="preserve">
+    <value>कृपया 3 डी दुवा प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterAddressline1" xml:space="preserve">
+    <value>कृपया अ‍ॅड्रेसलाइन 1 प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterAddressline2" xml:space="preserve">
+    <value>कृपया अ‍ॅड्रेसलाइन 2 प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterAvgPrice" xml:space="preserve">
+    <value>कृपया सरासरी प्रविष्ट करा. किंमत</value>
+  </data>
+  <data name="PleaseEnterBlogCategoryName" xml:space="preserve">
+    <value>कृपया ब्लॉग श्रेणी नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterBudget" xml:space="preserve">
+    <value>कृपया बजेट प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterBudgetName" xml:space="preserve">
+    <value>कृपया बजेटचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterBuildupArea" xml:space="preserve">
+    <value>कृपया बिल्डअप क्षेत्र प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterCarpetArea" xml:space="preserve">
+    <value>कृपया कार्पेट क्षेत्र प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterColorCode" xml:space="preserve">
+    <value>कृपया रंग कोड प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterConfig" xml:space="preserve">
+    <value>कृपया कॉन्फिगरेशन प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterDescription" xml:space="preserve">
+    <value>कृपया वर्णन प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterDiscussion" xml:space="preserve">
+    <value>कृपया चर्चा प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterEmailID" xml:space="preserve">
+    <value>कृपया ईमेलआयडी प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterFirstName" xml:space="preserve">
+    <value>कृपया प्रथम नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterFromDate" xml:space="preserve">
+    <value>कृपया तारखेपासून प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterInterestLevelName" xml:space="preserve">
+    <value>कृपया स्वारस्य पातळीचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterLastName" xml:space="preserve">
+    <value>कृपया आडनाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterLaunchDate" xml:space="preserve">
+    <value>कृपया प्रक्षेपण तारीख प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterLink" xml:space="preserve">
+    <value>कृपया दुवा प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterLocality" xml:space="preserve">
+    <value>कृपया परिसर प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterNameofPastProject" xml:space="preserve">
+    <value>कृपया मागील प्रकल्पाचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterParkingCost" xml:space="preserve">
+    <value>कृपया पार्किंग खर्च प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPartyName" xml:space="preserve">
+    <value>कृपया पक्षाचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPartyTypeName" xml:space="preserve">
+    <value>कृपया पार्टी प्रकार नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPriceperSqFt" xml:space="preserve">
+    <value>कृपया प्रत्येक चौरस फुट किंमत द्या.</value>
+  </data>
+  <data name="PleaseEnterPriority" xml:space="preserve">
+    <value>कृपया प्राधान्य प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterProjectAmenities" xml:space="preserve">
+    <value>कृपया प्रकल्प सुविधा प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterProjectName" xml:space="preserve">
+    <value>कृपया प्रोजेक्ट नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterProjectPrefitting" xml:space="preserve">
+    <value>कृपया प्रोजेक्ट प्रीफिटिंग प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterProjectTypeName" xml:space="preserve">
+    <value>कृपया प्रोजेक्टटाइप नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyCategoryName" xml:space="preserve">
+    <value>कृपया मालमत्ता श्रेणी नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyConfigName" xml:space="preserve">
+    <value>कृपया मालमत्ता कॉन्फिगरेशन नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyFacingName" xml:space="preserve">
+    <value>कृपया मालमत्तेचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyFloorName" xml:space="preserve">
+    <value>कृपया प्रॉपर्टी फ्लोरचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyStatusName" xml:space="preserve">
+    <value>कृपया मालमत्ता स्थिती नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyTypeName" xml:space="preserve">
+    <value>प्रॉपर्टी प्रकार नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPropertyVastu" xml:space="preserve">
+    <value>कृपया प्रॉपर्टी वास्तु प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterPurposeName" xml:space="preserve">
+    <value>कृपया हेतू नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterRERANo" xml:space="preserve">
+    <value>कृपया रेरा क्रमांक प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterSmallDescription" xml:space="preserve">
+    <value>कृपया लहान वर्णन प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterStateOfRERA" xml:space="preserve">
+    <value>कृपया रेरा राज्य प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterStatusName" xml:space="preserve">
+    <value>कृपया स्थिती नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterTags" xml:space="preserve">
+    <value>कृपया टॅग प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterTitle" xml:space="preserve">
+    <value>कृपया शीर्षक प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterToDate" xml:space="preserve">
+    <value>कृपया तारीख प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterTowerName" xml:space="preserve">
+    <value>कृपया टॉवरचे नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterTowerRERANo" xml:space="preserve">
+    <value>कृपया टॉवर रेरा क्रमांक प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterUnitName" xml:space="preserve">
+    <value>कृपया युनिट नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterUnitStatusName" xml:space="preserve">
+    <value>कृपया युनिट स्थिती नाव प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterValidEventDate" xml:space="preserve">
+    <value>कृपया वैध कार्यक्रमाची तारीख प्रविष्ट करा</value>
+  </data>
+  <data name="PleaseEnterValidNextVisitDateTime" xml:space="preserve">
+    <value>कृपया वैध प्रविष्ट करा पुढील भेटीची तारीख आणि वेळ</value>
+  </data>
+  <data name="PleaseSelectBuilder" xml:space="preserve">
+    <value>कृपया बिल्डर निवडा</value>
+  </data>
+  <data name="PleaseSelectBuildersTeamMembers" xml:space="preserve">
+    <value>कृपया बिल्डरचे कार्यसंघ सदस्य निवडा</value>
+  </data>
+  <data name="PleaseSelectCategory" xml:space="preserve">
+    <value>कृपया वर्ग निवडा</value>
+  </data>
+  <data name="PleaseSelectConfig" xml:space="preserve">
+    <value>कृपया कॉन्फिगरेशन निवडा</value>
+  </data>
+  <data name="PleaseSelectFloor" xml:space="preserve">
+    <value>कृपया मजला निवडा</value>
+  </data>
+  <data name="PleaseSelectInterestLevel" xml:space="preserve">
+    <value>कृपया व्याज स्तर निवडा</value>
+  </data>
+  <data name="PleaseSelectPartyType" xml:space="preserve">
+    <value>कृपया पार्टी प्रकार निवडा</value>
+  </data>
+  <data name="PleaseSelectPossessionMonthandYear" xml:space="preserve">
+    <value>कृपया पास महिना आणि वर्ष निवडा</value>
+  </data>
+  <data name="PleaseSelectProjectApprovedMonthandYear" xml:space="preserve">
+    <value>कृपया प्रकल्प मंजूर महिना आणि वर्ष निवडा</value>
+  </data>
+  <data name="PleaseSelectPropertyCategory" xml:space="preserve">
+    <value>कृपया मालमत्ता श्रेणी निवडा</value>
+  </data>
+  <data name="PleaseSelectPropertyFacing" xml:space="preserve">
+    <value>कृपया मालमत्ता दर्शविणे निवडा</value>
+  </data>
+  <data name="PleaseSelectPropertyStatus" xml:space="preserve">
+    <value>कृपया मालमत्ता स्थिती निवडा</value>
+  </data>
+  <data name="PleaseSelectPropertyType" xml:space="preserve">
+    <value>कृपया मालमत्ता प्रकार निवडा</value>
+  </data>
+  <data name="PleaseSelectPropertyvastu" xml:space="preserve">
+    <value>कृपया मालमत्ता विशाल निवडा</value>
+  </data>
+  <data name="PleaseSelectPurposeofMeeting" xml:space="preserve">
+    <value>कृपया संमेलनाचा हेतू निवडा</value>
+  </data>
+  <data name="PleaseSelectSite" xml:space="preserve">
+    <value>कृपया साइट निवडा</value>
+  </data>
+  <data name="PleaseSelectStateOfRERARegistering" xml:space="preserve">
+    <value>कृपया रेरा नोंदणीची राज्य निवडा</value>
+  </data>
+  <data name="PleaseSelectStatus" xml:space="preserve">
+    <value>कृपया स्थिती निवडा</value>
+  </data>
+  <data name="PleaseSelectThumbnail" xml:space="preserve">
+    <value>कृपया लघुप्रतिमा निवडा</value>
+  </data>
+  <data name="PleaseSelectTower" xml:space="preserve">
+    <value>कृपया टॉवर निवडा</value>
+  </data>
+  <data name="PleaseSelectType" xml:space="preserve">
+    <value>कृपया प्रकार निवडा</value>
+  </data>
+  <data name="PleaseSelectYear" xml:space="preserve">
+    <value>कृपया वर्ष निवडा</value>
+  </data>
+  <data name="Possession" xml:space="preserve">
+    <value>ताब्यात</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>किंमत</value>
+  </data>
+  <data name="PricePerSqFt" xml:space="preserve">
+    <value>दर चौरस फूट किंमत</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>प्राधान्य</value>
+  </data>
+  <data name="Project" xml:space="preserve">
+    <value>प्रकल्प</value>
+  </data>
+  <data name="ProjectAmenities" xml:space="preserve">
+    <value>प्रकल्प सुविधा</value>
+  </data>
+  <data name="ProjectApprovedOn" xml:space="preserve">
+    <value>प्रकल्प मंजूर</value>
+  </data>
+  <data name="ProjectCode" xml:space="preserve">
+    <value>प्रकल्प कोड</value>
+  </data>
+  <data name="ProjectList" xml:space="preserve">
+    <value>प्रकल्प यादी</value>
+  </data>
+  <data name="ProjectMaster" xml:space="preserve">
+    <value>प्रकल्प मास्टर</value>
+  </data>
+  <data name="ProjectName" xml:space="preserve">
+    <value>प्रकल्पाचे नाव</value>
+  </data>
+  <data name="ProjectNamePartyName" xml:space="preserve">
+    <value>प्रकल्प नाव / पक्षाचे नाव</value>
+  </data>
+  <data name="ProjectPrefitting" xml:space="preserve">
+    <value>प्रोजेक्ट प्रीफिटिंग</value>
+  </data>
+  <data name="ProjectType" xml:space="preserve">
+    <value>प्रोजेक्टटाइप</value>
+  </data>
+  <data name="ProjectTypeList" xml:space="preserve">
+    <value>प्रकल्प प्रकार यादी</value>
+  </data>
+  <data name="ProjectTypeMaster" xml:space="preserve">
+    <value>प्रोजेक्टटाइप मास्टर</value>
+  </data>
+  <data name="ProjectTypeName" xml:space="preserve">
+    <value>प्रोजेक्टटाइप नाव</value>
+  </data>
+  <data name="PropertyCategory" xml:space="preserve">
+    <value>मालमत्ता श्रेणी</value>
+  </data>
+  <data name="PropertyCategoryList" xml:space="preserve">
+    <value>मालमत्ता श्रेणी यादी</value>
+  </data>
+  <data name="PropertyCategoryMaster" xml:space="preserve">
+    <value>मालमत्ता श्रेणी मास्टर</value>
+  </data>
+  <data name="PropertyCategoryName" xml:space="preserve">
+    <value>मालमत्ता श्रेणी नाव</value>
+  </data>
+  <data name="PropertyCode" xml:space="preserve">
+    <value>मालमत्ता कोड</value>
+  </data>
+  <data name="PropertyConfig" xml:space="preserve">
+    <value>प्रॉपर्टी कॉन्फिगरेशन</value>
+  </data>
+  <data name="PropertyConfigList" xml:space="preserve">
+    <value>प्रॉपर्टी कॉन्फिगरेशन यादी</value>
+  </data>
+  <data name="PropertyConfigMaster" xml:space="preserve">
+    <value>प्रॉपर्टी कॉन्फिगरेशन मास्टर</value>
+  </data>
+  <data name="PropertyConfigName" xml:space="preserve">
+    <value>प्रॉपर्टी कॉन्फिगरेशन नाव</value>
+  </data>
+  <data name="PropertyEntry" xml:space="preserve">
+    <value>मालमत्ता प्रवेश</value>
+  </data>
+  <data name="PropertyFacing" xml:space="preserve">
+    <value>मालमत्तेचा सामना</value>
+  </data>
+  <data name="PropertyFacingList" xml:space="preserve">
+    <value>मालमत्ता दर्शविणारी यादी</value>
+  </data>
+  <data name="PropertyFacingMaster" xml:space="preserve">
+    <value>प्रॉपर्टी फेसिंग मास्टर</value>
+  </data>
+  <data name="PropertyFacingName" xml:space="preserve">
+    <value>मालमत्तेचे नाव</value>
+  </data>
+  <data name="PropertyFloor" xml:space="preserve">
+    <value>मालमत्ता मजला</value>
+  </data>
+  <data name="PropertyFloorList" xml:space="preserve">
+    <value>मालमत्ता मजल्याची यादी</value>
+  </data>
+  <data name="PropertyFloorMaster" xml:space="preserve">
+    <value>प्रॉपर्टी फ्लोर मास्टर</value>
+  </data>
+  <data name="PropertyFloorName" xml:space="preserve">
+    <value>प्रॉपर्टी फ्लोरचे नाव</value>
+  </data>
+  <data name="PropertyInterest" xml:space="preserve">
+    <value>मालमत्ता व्याज</value>
+  </data>
+  <data name="PropertyInterestList" xml:space="preserve">
+    <value>मालमत्ता व्याज यादी</value>
+  </data>
+  <data name="PropertyList" xml:space="preserve">
+    <value>मालमत्ता यादी</value>
+  </data>
+  <data name="PropertyOverview" xml:space="preserve">
+    <value>मालमत्ता विहंगावलोकन</value>
+  </data>
+  <data name="PropertyParty" xml:space="preserve">
+    <value>प्रॉपर्टी पार्टी</value>
+  </data>
+  <data name="PropertyStatus" xml:space="preserve">
+    <value>मालमत्ता स्थिती</value>
+  </data>
+  <data name="PropertyStatusList" xml:space="preserve">
+    <value>मालमत्ता स्थिती यादी</value>
+  </data>
+  <data name="PropertyStatusMaster" xml:space="preserve">
+    <value>मालमत्ता स्थिती मास्टर</value>
+  </data>
+  <data name="PropertyStatusName" xml:space="preserve">
+    <value>मालमत्ता स्थिती नाव</value>
+  </data>
+  <data name="PropertyType" xml:space="preserve">
+    <value>मालमत्तेचा प्रकार</value>
+  </data>
+  <data name="PropertyTypeList" xml:space="preserve">
+    <value>मालमत्ता प्रकार यादी</value>
+  </data>
+  <data name="PropertyTypeMaster" xml:space="preserve">
+    <value>प्रॉपर्टी प्रकार मास्टर</value>
+  </data>
+  <data name="PropertyTypeName" xml:space="preserve">
+    <value>मालमत्तेचे नाव</value>
+  </data>
+  <data name="PropertyVastu" xml:space="preserve">
+    <value>प्रॉपर्टी वास्तु</value>
+  </data>
+  <data name="PropertyVastuList" xml:space="preserve">
+    <value>मालमत्ता वास्तू यादी</value>
+  </data>
+  <data name="PropertyVastuMaster" xml:space="preserve">
+    <value>प्रॉपर्टी वास्तु मास्टर</value>
+  </data>
+  <data name="Purpose" xml:space="preserve">
+    <value>हेतू</value>
+  </data>
+  <data name="PurposeList" xml:space="preserve">
+    <value>उद्देश यादी</value>
+  </data>
+  <data name="PurposeMaster" xml:space="preserve">
+    <value>उद्देश मास्टर</value>
+  </data>
+  <data name="PurposeName" xml:space="preserve">
+    <value>हेतू नाव</value>
+  </data>
+  <data name="PurposeofMeeting" xml:space="preserve">
+    <value>सभेचा हेतू</value>
+  </data>
+  <data name="ReasonRequired" xml:space="preserve">
+    <value>कारण आवश्यक</value>
+  </data>
+  <data name="RegisteredSince" xml:space="preserve">
+    <value>पासून नोंदणीकृत</value>
+  </data>
+  <data name="Remark" xml:space="preserve">
+    <value>टीका</value>
+  </data>
+  <data name="Remarks" xml:space="preserve">
+    <value>टीका</value>
+  </data>
+  <data name="RERAApplicable" xml:space="preserve">
+    <value>रेरा लागू</value>
+  </data>
+  <data name="RERANo" xml:space="preserve">
+    <value>रेरा क्र</value>
+  </data>
+  <data name="RERANocompulsory" xml:space="preserve">
+    <value>रेरा अनिवार्य नाही</value>
+  </data>
+  <data name="ScheduledVisit" xml:space="preserve">
+    <value>अनुसूचित अभ्यागत</value>
+  </data>
+  <data name="ScheduleNextVisit" xml:space="preserve">
+    <value>पुढील अभ्यागत वेळापत्रक</value>
+  </data>
+  <data name="ScheduleNextVisitDate" xml:space="preserve">
+    <value>पुढील अभ्यागत तारीख वेळापत्रक</value>
+  </data>
+  <data name="SelectBuilder" xml:space="preserve">
+    <value>बिल्डर निवडा</value>
+  </data>
+  <data name="SelectBuildersTeamMembers" xml:space="preserve">
+    <value>बिल्डरचे कार्यसंघ सदस्य निवडा</value>
+  </data>
+  <data name="SelectConfig" xml:space="preserve">
+    <value>कॉन्फिगरेशन निवडा</value>
+  </data>
+  <data name="SelectExportFormat" xml:space="preserve">
+    <value>निर्यात स्वरूप निवडा</value>
+  </data>
+  <data name="SelectFloor" xml:space="preserve">
+    <value>मजला निवडा</value>
+  </data>
+  <data name="SelectMultipleBlogImagesandFiles" xml:space="preserve">
+    <value>एकाधिक ब्लॉग प्रतिमा आणि फायली निवडा</value>
+  </data>
+  <data name="SelectMultiplePropertyPhotosandBrochure" xml:space="preserve">
+    <value>एकाधिक मालमत्ता फोटो आणि माहितीपत्रक निवडा</value>
+  </data>
+  <data name="SelectProject" xml:space="preserve">
+    <value>प्रकल्प निवडा</value>
+  </data>
+  <data name="SelectStatus" xml:space="preserve">
+    <value>स्थिती निवडा</value>
+  </data>
+  <data name="SelectThumbnailImage" xml:space="preserve">
+    <value>लघुप्रतिमा प्रतिमा निवडा</value>
+  </data>
+  <data name="SelectTower" xml:space="preserve">
+    <value>टॉवर निवडा</value>
+  </data>
+  <data name="SelectUser" xml:space="preserve">
+    <value>वापरकर्ता निवडा</value>
+  </data>
+  <data name="SendLoginEmail" xml:space="preserve">
+    <value>लॉगिन ईमेल पाठवा</value>
+  </data>
+  <data name="SiteAddressline1" xml:space="preserve">
+    <value>साइट पत्ता 1</value>
+  </data>
+  <data name="SiteAddressline2" xml:space="preserve">
+    <value>साइट पत्ता ओळ 2</value>
+  </data>
+  <data name="SiteName" xml:space="preserve">
+    <value>साइट नाव</value>
+  </data>
+  <data name="SmallDescription" xml:space="preserve">
+    <value>लहान वर्णन</value>
+  </data>
+  <data name="SocialMedia" xml:space="preserve">
+    <value>सोशल मीडिया</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>राज्य</value>
+  </data>
+  <data name="StateOfRERA" xml:space="preserve">
+    <value>रेरा राज्य</value>
+  </data>
+  <data name="StateOfRERAList" xml:space="preserve">
+    <value>रेरा यादी राज्य</value>
+  </data>
+  <data name="StateOfRERAMaster" xml:space="preserve">
+    <value>रेरा मास्टर ऑफ स्टेट</value>
+  </data>
+  <data name="StateOfRERARegistering" xml:space="preserve">
+    <value>रेरा नोंदणी राज्य</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>स्थिती</value>
+  </data>
+  <data name="StatusList" xml:space="preserve">
+    <value>स्थिती यादी</value>
+  </data>
+  <data name="StatusMaster" xml:space="preserve">
+    <value>स्थिती मास्टर</value>
+  </data>
+  <data name="StatusName" xml:space="preserve">
+    <value>स्थिती नाव</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>टॅग्ज</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>शीर्षक</value>
+  </data>
+  <data name="ToDate" xml:space="preserve">
+    <value>आजपर्यंत</value>
+  </data>
+  <data name="ToEventDate" xml:space="preserve">
+    <value>कार्यक्रमाची तारीख</value>
+  </data>
+  <data name="TowerDetails" xml:space="preserve">
+    <value>टॉवर तपशील</value>
+  </data>
+  <data name="TowerList" xml:space="preserve">
+    <value>टॉवर यादी</value>
+  </data>
+  <data name="UnitDetails" xml:space="preserve">
+    <value>युनिट तपशील</value>
+  </data>
+  <data name="UnitName" xml:space="preserve">
+    <value>युनिट नाव</value>
+  </data>
+  <data name="UnitStatus" xml:space="preserve">
+    <value>युनिट स्थिती</value>
+  </data>
+  <data name="UnitStatusList" xml:space="preserve">
+    <value>युनिट स्थिती यादी</value>
+  </data>
+  <data name="UnitStatusMaster" xml:space="preserve">
+    <value>युनिट स्थिती मास्टर</value>
+  </data>
+  <data name="UnitStatusName" xml:space="preserve">
+    <value>युनिट स्थिती नाव</value>
+  </data>
+  <data name="UpdateOwnProfileRights" xml:space="preserve">
+    <value>स्वतःचे प्रोफाइल अधिकार अद्यतनित करा</value>
+  </data>
+  <data name="UploadPhotos" xml:space="preserve">
+    <value>फोटो अपलोड करा</value>
+  </data>
+  <data name="Vastu" xml:space="preserve">
+    <value>वास्तु</value>
+  </data>
+  <data name="VisibilityStatus" xml:space="preserve">
+    <value>दृश्यमानता स्थिती</value>
+  </data>
+  <data name="VisitEntry" xml:space="preserve">
+    <value>अभ्यागत प्रवेश</value>
+  </data>
+  <data name="VisitHistory" xml:space="preserve">
+    <value>अभ्यागत इतिहास</value>
+  </data>
+  <data name="VisitList" xml:space="preserve">
+    <value>अभ्यागत यादी</value>
+  </data>
+  <data name="VisitNo" xml:space="preserve">
+    <value>अभ्यागत क्र</value>
+  </data>
+  <data name="WebsiteLink" xml:space="preserve">
+    <value>वेबसाइट दुवा</value>
+  </data>
+</root>
